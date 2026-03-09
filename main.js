@@ -33,3 +33,5 @@ function promedio(numeros) {
 
 console.log("Promedio [8, 9, 7] =", promedio([8, 9, 7]));
 console.log("Promedio [] =", promedio([]));
+
+console.log("= Calculadora lista =");
